@@ -5,7 +5,7 @@
 
 Olá! Tenho 17 anos e comecei recentemente no mundo da programação.
 
-Atualmente posso falar Inglês, Português, Espanhol e Catalão fluentemente.
+Atualmente posso falar Inglês, Português, Espanhol e Catalão fluentemente e estou aprendendo atualmente Italiano e Francês.
 
 Lembro da primeira vez em que comecei a jogar online e me apaixonar por diversos jogos. Ainda mantenho contato de amigos desde muito cedo, e fico realmente muito feliz por todas as pessoas que conheci no caminho, tanto as pessoas que me desejaram o mal, e as pessoas que torceram por mim!
 
@@ -13,42 +13,44 @@ Trabalhei já como suporte em ambas hospedagens como: https://bedhosting.com.br 
 
 _Agradeço e amo todos vocês meus amigos lindos!_
 
+<div align="center">
+
 ## 🤔 Como pode me contatar?
+
 <div align="center">
 <div class="discord">
  <a href="https://discord.com/users/396049406773952512">
  <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
  </div>
  
- 
-If you want to use Loritta on your server without messing around with hosting stuff, you can add our public instance by [clicking here](https://l.lori.fun/add-lori)! We recommend using the public instance, after all, more than 1 million guilds already use, trust and love her, so why not try it out?
+ Me contate pelo Discord caso queira conversar ou precise de ajuda com algo, me contate <3.
+## 💁 Seja um Afiliado/Apoiador!
 
-## 💁 Contributing
+Entre em contato comigo pelo email: contato@faws.online e seja um apoiador, qualquer valor é precioso :).
 
-If you want to contribute code or translations, check out our [Contributing to Loritta](docs/CONTRIBUTING.md) guide!
+## 🚀 Em busca de hospedagens?
 
-## 🚀 Self-hosting
+Ao longo do meu caminho, conheci várias hospedagens de jogos, e aqui embaixo irei listar nas que mais confio de olhos fechados caso tenha interesse em adquirir alguma hospedagem de jogos.
 
-You can also host your own Loritta instance in your own machine! This is only for experienced users and for users that want to help the project by contributing code. We won't give support for people that are trying to self-host because we don't want to spend hours trying to troubleshoot other people issues that only happens on self-hosted instances, so you should at least know how to troubleshoot issues, if you find any.
+- RedHosting: https://redhosting.com.br.
+- MeteorCloud: https://meteorcloud.com.br.
+- XMXCloud: https://xmxcloud.net.
 
-To learn more about self-hosting, please read the [How to self-host Loritta](docs/SELF-HOSTING.md) tutorial!
-
-## 💸 Support Us
-
-> B-but I never thought that people would be willing to *support*... **me**, with money... *loritta starts sobbing*
-
-If you want to help Loritta financially, please purchase things in Loritta's website! Anything purchased in Loritta's website help with our expenses and helps us to keep Loritta's dream of making the world a better place alive!
-
-___
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/708017680677863505/709834156145770534/lori_deitada.png">
-</p>
-
- <h2 align="center">🕐 Minha atividade</h2>
+ <h2 align="center">🕐 Um pedaçinho de mim aqui <3</h2>
 
 <div align="center">
   <img height="145em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&bar_color=0008ff&bar_color_cover=false"/>
   <a href="https://discord.com/users/754676415680479232"> 
-  <img height="135em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
+  <img height="135em" src="https://lanyard.cnrad.dev/api/396049406773952512?idleMessage=:)"/>
 </div>
+
+## 💸 Faça o bem a outras pessoas!
+
+> DOE! Faça a diferença na vida de outras pessoas. Procure uma agência humanitária para que possamos fazer uma diferença no mundo em que vivemos, temos que jorrar amor, paz e bondade.
+
+___
+
+<p align="center">
+<img src="https://media.discordapp.net/attachments/1070734580170109088/1082147003481477201/tumblr_n3ikfqHgj21txzxolo1_400.gif?width=555&height=312">
+</p>
+
