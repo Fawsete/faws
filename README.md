@@ -26,7 +26,7 @@ _Agradeço e amo todos vocês meus amigos lindos!_
  Me contate pelo Discord caso queira conversar ou precise de ajuda com algo, me contate <3.
 ## 💁 Seja um Afiliado/Apoiador!
 
-Entre em contato comigo pelo email: contato@faws.online e seja um apoiador, qualquer valor é precioso :).
+Entre em contato comigo pelo email: contato@faws.online e seja um apoiador, qualquer valor é precioso :D.
 
 ## 🚀 Em busca de hospedagens?
 
