@@ -46,11 +46,12 @@ Ao longo do meu caminho, conheci várias hospedagens de jogos, e aqui embaixo ir
 
 ## 💸 Faça o bem a outras pessoas!
 
-> DOE! Faça a diferença na vida de outras pessoas. Procure uma agência humanitária para que possamos fazer uma diferença no mundo em que vivemos, temos que jorrar amor, paz e bondade.
+DOE! Faça a diferença na vida de outras pessoas. Procure uma agência humanitária para que possamos fazer uma diferença no mundo em que vivemos, temos que jorrar amor, paz e bondade.
 
 ___
 
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1070734580170109088/1082147003481477201/tumblr_n3ikfqHgj21txzxolo1_400.gif?width=555&height=312">
 </p>
-
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
