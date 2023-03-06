@@ -1,32 +1,26 @@
 <p align="center">
-<img height="250" src="https://cdn.discordapp.com/attachments/513405772911345664/916023991473430558/loritta_wave_small_opt3.gif" align="right">
+<img height="250" src="https://cdn.discordapp.com/attachments/1081986349021802567/1082137764264431636/34fa7eee345476a2541ba9c9f1156faf_1.gif" align="right">
 
-<h1 align="center">✨ Loritta Morenitta ✨</h1>
+<h1 align="center">Hola! Em dic Faws i sóc un programador d'aprenentatge!</h1>
 
-<!-- Badges, about the GitHub repository itself -->
-<p align="center">
-<a href="https://github.com/LorittaBot/Loritta/actions/workflows/build.yml"><img src="https://github.com/LorittaBot/Loritta/actions/workflows/build.yml/badge.svg"></a>
-<a href="https://i18n.perfectdreams.net/loritta-morenitta-cinnamon"><img src="https://badges.crowdin.net/e/557e25200b3a46d74dc052c4ec2cc8a4/localized.svg"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/license-AGPL%20v3-blue.svg"></a>
-</p>
+Olá! Tenho 17 anos e comecei recentemente no mundo da programação.
 
-All Discord servers have the same issues. Members want entertainment, moderators want automation... and you just want to rest.
+Atualmente posso falar Inglês, Português, Espanhol e Catalão fluentemente.
 
-Your life is too precious to spend your time with useless junk, let me take care of the boring parts while you have fun on your server!
+Lembro da primeira vez em que comecei a jogar online e me apaixonar por diversos jogos. Ainda mantenho contato de amigos desde muito cedo, e fico realmente muito feliz por todas as pessoas que conheci no caminho, tanto as pessoas que me desejaram o mal, e as pessoas que torceram por mim!
 
-With features to entertain and engage your members, moderation features to keep your server always safe and enjoyable, and with an easy way to set up but with an unmatched power of customization...
+Trabalhei já como suporte em ambas hospedagens como: https://bedhosting.com.br e https://xmxcloud.net.
 
-And everything thanks to a 16 year old girl trying to make the world a better place!
+_Agradeço e amo todos vocês meus amigos lindos!_
 
-_Making your server unique and extraordinary has never been easier!_
-
-## 🤔 How can I add her?
-
-<p align="center">
-<a href="https://discordbots.org/bot/297153970613387264?utm_source=widget">
-<img src="https://discordbots.org/api/widget/297153970613387264.png?test=123456" alt="Discord Bots" />
-</a>
-
+## 🤔 Como pode me contatar?
+<div align="center">
+<div class="discord">
+ <a href="https://discord.com/users/396049406773952512">
+ <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
+ </div>
+ 
+ 
 If you want to use Loritta on your server without messing around with hosting stuff, you can add our public instance by [clicking here](https://l.lori.fun/add-lori)! We recommend using the public instance, after all, more than 1 million guilds already use, trust and love her, so why not try it out?
 
 ## 💁 Contributing
@@ -50,3 +44,11 @@ ___
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/708017680677863505/709834156145770534/lori_deitada.png">
 </p>
+
+ <h2 align="center">🕐 Minha atividade</h2>
+
+<div align="center">
+  <img height="145em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&bar_color=0008ff&bar_color_cover=false"/>
+  <a href="https://discord.com/users/754676415680479232"> 
+  <img height="135em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
+</div>
