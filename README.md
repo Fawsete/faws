@@ -10,7 +10,7 @@ Atualmente posso falar Inglês, Português, Espanhol e Catalão fluentemente e e
 Lembro da primeira vez em que comecei a jogar online e me apaixonar por diversos jogos. Ainda mantenho contato de amigos desde muito cedo, e fico realmente muito feliz por todas as pessoas que conheci no caminho, tanto as pessoas que me desejaram o mal, e as pessoas que torceram por mim!
 
 Trabalhei já como suporte em ambas hospedagens como: https://bedhosting.com.br e https://xmxcloud.net. 
-Atualmente trabalho como Suporte Técnico na https://aelioncloud.com.br, https://elgaehost.com.br e Suporte na https://sincemarket.com.br.
+Atualmente trabalho como Suporte Técnico na https://aelioncloud.com.br, https://elgaehost.com.br e Suporte na https://sincemarket.com.br e https://ystoreplugins.com.br.
 
 _Agradeço e amo todos vocês meus amigos lindos!_
 
@@ -33,9 +33,9 @@ Entre em contato comigo pelo email: contato@faws.online e seja um apoiador, qual
 
 Ao longo do meu caminho, conheci várias hospedagens de jogos, e aqui embaixo irei listar nas que mais confio de olhos fechados caso tenha interesse em adquirir alguma hospedagem de jogos.
 
-- RedHosting: https://redhosting.com.br.
-- MeteorCloud: https://meteorcloud.com.br.
-- XMXCloud: https://xmxcloud.net.
+- ElgaeHost: https://elgaehost.com.br
+- AelionCloud: https://aelioncloud.com.br
+- RedHosting: https://redhosting.com.br
 
  <h2 align="center">🕐 Um pedaçinho de mim aqui <3</h2>
 
