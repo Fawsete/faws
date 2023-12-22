@@ -9,7 +9,8 @@ Atualmente posso falar Inglês, Português, Espanhol e Catalão fluentemente e e
 
 Lembro da primeira vez em que comecei a jogar online e me apaixonar por diversos jogos. Ainda mantenho contato de amigos desde muito cedo, e fico realmente muito feliz por todas as pessoas que conheci no caminho, tanto as pessoas que me desejaram o mal, e as pessoas que torceram por mim!
 
-Trabalhei já como suporte em ambas hospedagens como: https://bedhosting.com.br e https://xmxcloud.net.
+Trabalhei já como suporte em ambas hospedagens como: https://bedhosting.com.br e https://xmxcloud.net. 
+Atualmente trabalho como Suporte Técnico na https://aelioncloud.com.br, https://elgaehost.com.br e Suporte na https://sincemarket.com.br.
 
 _Agradeço e amo todos vocês meus amigos lindos!_
 
